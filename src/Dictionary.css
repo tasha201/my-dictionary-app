@@ -26,9 +26,17 @@
   font-size: 18px;
   line-height: 21px;
   padding: 22px;
-  border: 1px solid #B98CEF;
+  border: 1px solid #ddd;
   border-radius: 6px;
   width: 100%;
+}
+
+.Dictionary .form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #B98CEF;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(120, 8, 148, 0.25);
 }
 
 .Dictionary .hint {
