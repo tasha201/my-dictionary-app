@@ -1,15 +1,19 @@
-body {
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-}
-
 .App .logo {
   width: 150px;
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 .App h1 {
   font-family: 'Concert One', sans-serif;
   font-size: 42px;
   color: #B98CEF;
+}
+
+.App footer {
+  margin: 40px 0 60px;
+  font-size: 16px;
+}
+
+.App a {
+  color: #6c63ff;
 }
