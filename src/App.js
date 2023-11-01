@@ -14,7 +14,7 @@ function App() {
           <h1>Dictionary App</h1>
         </header>
 
-        <Dictionary defaultKeyword='sunset' />
+        <Dictionary defaultKeyword='sunrise' />
 
         <footer>
           This project was coded by <a>Natalia Pavlyk</a> and is {" "}
