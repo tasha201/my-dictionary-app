@@ -19,7 +19,7 @@ function App() {
         <footer>
           This project was coded by <a>Natalia Pavlyk</a> and is {" "}
           <a
-            href="#"
+            href="https://github.com/tasha201/my-dictionary-app"
             target="_blank"
             rel="noopener noreferrer"
           >
