@@ -17,7 +17,7 @@ function App() {
         <Dictionary defaultKeyword='sunrise' />
 
         <footer>
-          This project was coded by <a>Natalia Pavlyk</a> and is {" "}
+          This project was coded by <strong>Natalia Pavlyk</strong> and is {" "}
           <a
             href="https://github.com/tasha201/my-dictionary-app"
             target="_blank"
@@ -27,7 +27,7 @@ function App() {
           </a>
           and
           <a
-            href="#"
+            href="https://gorgeous-swan-fdaaeb.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           > {" "}
