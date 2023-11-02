@@ -27,7 +27,7 @@ function App() {
           </a>
           and
           <a
-            href="https://gorgeous-swan-fdaaeb.netlify.app"
+            href="https://neon-kringle-b78cf0.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           > {" "}
